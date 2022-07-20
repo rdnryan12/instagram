@@ -8,3 +8,4 @@ Esse é o repositório da aula de Flexbox realizada no DIO, na qual vamos fazer 
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 🚀 Let's code! 🚀
+* LINK DE VISUALIZAÇÂO: https://rdnryan12.github.io/instagram/
